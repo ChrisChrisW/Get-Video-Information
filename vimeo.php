@@ -11,7 +11,7 @@ $client_secret = $_ENV['VIMEO_CLIENT_SECRET'];
 $access_token = $_ENV['VIMEO_TOKEN'];
 
 // ID of video (owners or public)
-$video_id = "499714515";
+$video_id = "";
 
 $client = new Vimeo($client_id, $client_secret, $access_token);
 

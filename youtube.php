@@ -6,7 +6,7 @@ $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
 $dotenv->load();
 
 // ID of video
-$video_id = "tL3-kd9zl_s";
+$video_id = "";
 
 // Return Duration
 function getYoutubeVideo(string $video_id) {
