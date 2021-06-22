@@ -11,3 +11,11 @@ Declare :
 
 ## Version
 `PHP 7.4`
+
+## API 
+
+### Youtube
+- https://developers.google.com/youtube/v3/getting-started
+
+### Vimeo
+- https://developer.vimeo.com
